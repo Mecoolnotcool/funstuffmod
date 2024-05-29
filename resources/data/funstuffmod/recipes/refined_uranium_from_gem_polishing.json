@@ -1,0 +1,12 @@
+{
+  "type": "funstuffmod:refining",
+  "ingredients": [
+    {
+      "item": "funstuffmod:uranium"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "funstuffmod:refined_uranium"
+  }
+}
